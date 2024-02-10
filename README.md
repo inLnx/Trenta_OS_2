@@ -1,3 +1,5 @@
+# What this is
+Trenta OS was discontinued in 2022. I am simply trying to revive it.
 # Trenta OS Environment Setup for Ubuntu 18.04
 Allows you to convert Ubuntu 18.04 to Trenta OS test environment
 
